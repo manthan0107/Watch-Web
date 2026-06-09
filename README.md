@@ -1,19 +1,19 @@
-# ⌚ Watch Store Website
+# ⌚ Watch Store E-Commerce Website
 
-A modern and responsive watch showcase website designed for luxury and premium watch collections. The website features an elegant UI, product display sections, and a seamless user experience across all devices.
+A full-stack watch e-commerce website developed to showcase premium and luxury watch collections. The platform provides a modern shopping experience with responsive design, product browsing, and user-friendly navigation.
 
 ## 🌐 Live Demo
 
-🔗 [View Live Website](YOUR_WATCH_WEBSITE_LINK)
+🔗 [View Live Website](YOUR_LIVE_LINK_HERE)
 
 ## ✨ Features
 
 * Premium Watch Collection Showcase
-* Modern and Elegant User Interface
-* Fully Responsive Design
-* Product Display Sections
-* Smooth Navigation Experience
+* Product Catalog & Details
+* Responsive User Interface
+* Modern E-Commerce Design
 * Mobile-Friendly Layout
+* Fast Navigation Experience
 
 ## 🛠️ Tech Stack
 
@@ -23,46 +23,27 @@ A modern and responsive watch showcase website designed for luxury and premium w
 * CSS3
 * JavaScript
 
-### Tools
+### Backend
 
-* VS Code
-* Git & GitHub
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
 
 ## 📂 Project Structure
 
-```text
-index.html
-css/
-js/
-images/
-```
+Frontend/
+Backend/
 
 ## ⚙️ Installation
 
-### Clone Repository
-
-```bash
 git clone https://github.com/manthan0107/Watch-Web.git
-```
 
-### Run Project
+npm install
 
-Open:
-
-```text
-index.html
-```
-
-in your browser.
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Featured Watches Section
-* Collection Page
-* Contact Section
+npm start
 
 ## 📬 Contact
 
@@ -71,10 +52,6 @@ Add screenshots of:
 🐙 GitHub: https://github.com/manthan0107
 
 💼 LinkedIn: https://www.linkedin.com/in/manthan-munjani/
-
-## ⭐ Support
-
-If you like this project, please give it a star ⭐ on GitHub.
 
 ---
 
